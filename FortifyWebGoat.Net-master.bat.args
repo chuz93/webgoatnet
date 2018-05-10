@@ -1,0 +1,12 @@
+ 
+"-libdirs" 
+"C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\Infrastructure\bin\Debug\EntityFramework.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\Infrastructure\bin\Debug\System.Data.DataSetExtensions.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\AntiXSS.4.3.0\lib\net20\AntiXssLibrary.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\AntiXSS.4.3.0\lib\net35\AntiXssLibrary.dll" 
+"-libdirs" 
+"C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\AntiXSS.4.3.0\lib\net35\HtmlSanitizationLibrary.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\AntiXSS.4.3.0\lib\net40\AntiXssLibrary.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\AntiXSS.4.3.0\lib\net40\HtmlSanitizationLibrary.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.SqlServer.dll" 
+"-libdirs" 
+"C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\EntityFramework.6.1.3\tools\EntityFramework.PowerShell.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\packages\EntityFramework.6.1.3\tools\EntityFramework.PowerShell.Utility.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\ThirdPartyTools\Recaptcha.dll" 
+"-libdirs" 
+"C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\WebSite\bin\AntiXssLibrary.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\WebSite\bin\EntityFramework.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\WebSite\bin\EntityFramework.SqlServer.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\WebSite\bin\HtmlSanitizationLibrary.dll;C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\WebSite\bin\Oracle.DataAccess.dll" 
+"-libdirs" 
+"C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master\WebSite\bin\Recaptcha.dll" 
+"C:\Users\rujesusg\Documents\WebGoat.Net\WebGoat.Net-master" 
